@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Tags</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://demo.warptheme.com"/>
+	<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/k2/tags/itemlist/tag/Design</id>
+	<updated>2021-04-27T04:44:08+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/k2/tags/itemlist/tag/Design?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Design is a plan for arranging elements in such a way as best to accomplish a purpose</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/k2/single-item"/>
+		<published>2016-05-31T10:47:38+00:00</published>
+		<updated>2016-05-31T10:47:38+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/k2/single-item</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/media/k2/items/cache/2fa67f482133f1c934235b73c2a03954_S.jpg&quot; alt=&quot;Design is a plan for arranging elements in such a way as best to accomplish a purpose&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;K2FeedFullText&quot;&gt;
+&lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. nullam elementum consequat lacussit amet. Sed aliquam eu ante a ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce elementum felis lorem, eget scelerisque enim blandit quis. Praesent luctus pulvinar sollicitudin. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+&lt;li&gt;Fusce elementum felis eget scelerisque enim blandit.&lt;/li&gt;
+&lt;li&gt;Turpis nec sollicitudin cursus vestibulum. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;bg-gray&quot; style=&quot;padding:20px;&quot;&gt;
+&lt;p&gt;Vesarius hendrerit turpis quiseam cursus. Nonec bibendum vestibulum Kravida adess. Alentesque condimentum orci vel leo laoreet accumsan interdum eros vel sapien tincidunt dignissim eros vel sapien. &lt;small&gt;John Doe&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt; Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;
+&lt;p&gt;Nam eleifend aliquam augue, id condimentum erat vehicula vel. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/media/k2/items/cache/2fa67f482133f1c934235b73c2a03954_S.jpg&quot; alt=&quot;Design is a plan for arranging elements in such a way as best to accomplish a purpose&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;K2FeedFullText&quot;&gt;
+&lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. nullam elementum consequat lacussit amet. Sed aliquam eu ante a ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce elementum felis lorem, eget scelerisque enim blandit quis. Praesent luctus pulvinar sollicitudin. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+&lt;li&gt;Fusce elementum felis eget scelerisque enim blandit.&lt;/li&gt;
+&lt;li&gt;Turpis nec sollicitudin cursus vestibulum. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;bg-gray&quot; style=&quot;padding:20px;&quot;&gt;
+&lt;p&gt;Vesarius hendrerit turpis quiseam cursus. Nonec bibendum vestibulum Kravida adess. Alentesque condimentum orci vel leo laoreet accumsan interdum eros vel sapien tincidunt dignissim eros vel sapien. &lt;small&gt;John Doe&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt; Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;
+&lt;p&gt;Nam eleifend aliquam augue, id condimentum erat vehicula vel. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="K2 Blog" />
+		<link rel="enclosure" href="https://demo.warptheme.com/joomla/wt_berrykids/media/k2/items/cache/2fa67f482133f1c934235b73c2a03954_S.jpg" type="image/jpeg"  length="21414" />
+	</entry>
+</feed>

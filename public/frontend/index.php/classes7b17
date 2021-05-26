@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Classes</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://demo.warptheme.com"/>
+	<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes</id>
+	<updated>2021-04-27T04:38:36+00:00</updated>
+	<author>
+		<name>Joomla Template by WarpTheme</name>
+		<email>demo@warptheme.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes?format=feed&amp;type=atom"/>
+	<entry>
+		<title>After School Program</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes/81-after-school-program"/>
+		<published>2017-05-18T15:45:00+00:00</published>
+		<updated>2017-05-18T15:45:00+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes/81-after-school-program</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;
+ I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. 
+&lt;/p&gt;
+&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/academic4.jpg&quot; /&gt;
+&lt;h4&gt;
+  The kids learn to read &amp; write after learning to speak and listen actively
+&lt;/h4&gt;
+</summary>
+		<content type="html">&lt;p&gt;
+ I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. 
+&lt;/p&gt;
+&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/academic4.jpg&quot; /&gt;
+&lt;h4&gt;
+  The kids learn to read &amp; write after learning to speak and listen actively
+&lt;/h4&gt;
+</content>
+		<category term="Courses" />
+	</entry>
+	<entry>
+		<title>Cooking Classes</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes/82-cooking-classes"/>
+		<published>2017-05-18T15:45:00+00:00</published>
+		<updated>2017-05-18T15:45:00+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes/82-cooking-classes</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;
+ I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. 
+&lt;/p&gt;
+&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/academic4.jpg&quot; /&gt;
+&lt;h4&gt;
+  The kids learn to read &amp; write after learning to speak and listen actively
+&lt;/h4&gt;
+</summary>
+		<content type="html">&lt;p&gt;
+ I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. 
+&lt;/p&gt;
+&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/academic4.jpg&quot; /&gt;
+&lt;h4&gt;
+  The kids learn to read &amp; write after learning to speak and listen actively
+&lt;/h4&gt;
+</content>
+		<category term="Courses" />
+	</entry>
+	<entry>
+		<title>Dance Classes</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes/83-dance-classes"/>
+		<published>2017-05-18T15:45:00+00:00</published>
+		<updated>2017-05-18T15:45:00+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes/83-dance-classes</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;
+ I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. 
+&lt;/p&gt;
+&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/academic4.jpg&quot; /&gt;
+&lt;h4&gt;
+  The kids learn to read &amp; write after learning to speak and listen actively
+&lt;/h4&gt;
+</summary>
+		<content type="html">&lt;p&gt;
+ I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. 
+&lt;/p&gt;
+&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/academic4.jpg&quot; /&gt;
+&lt;h4&gt;
+  The kids learn to read &amp; write after learning to speak and listen actively
+&lt;/h4&gt;
+</content>
+		<category term="Courses" />
+	</entry>
+	<entry>
+		<title>Fitness Practices</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes/84-fitness-practices"/>
+		<published>2017-05-18T15:45:00+00:00</published>
+		<updated>2017-05-18T15:45:00+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/classes/84-fitness-practices</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;
+ I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. 
+&lt;/p&gt;
+&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/academic4.jpg&quot; /&gt;
+&lt;h4&gt;
+  The kids learn to read &amp; write after learning to speak and listen actively
+&lt;/h4&gt;
+</summary>
+		<content type="html">&lt;p&gt;
+ I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. 
+&lt;/p&gt;
+&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/academic4.jpg&quot; /&gt;
+&lt;h4&gt;
+  The kids learn to read &amp; write after learning to speak and listen actively
+&lt;/h4&gt;
+</content>
+		<category term="Courses" />
+	</entry>
+</feed>

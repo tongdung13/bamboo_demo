@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Blog With Left Sidebar</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://demo.warptheme.com"/>
+	<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/blog-with-left-sidebar</id>
+	<updated>2021-04-27T04:39:09+00:00</updated>
+	<author>
+		<name>Joomla Template by WarpTheme</name>
+		<email>demo@warptheme.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/blog-with-left-sidebar?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Hands on exercises accelerate learning</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/80-hands-on-exercises-accelerate-learning"/>
+		<published>2016-12-28T15:02:13+00:00</published>
+		<updated>2016-12-28T15:02:13+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/80-hands-on-exercises-accelerate-learning</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b11.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Duis vel orci erat. Aenean quis sem fringilla, scelerisque lectus et, vestibulum arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris faucibus vestibulum.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b11.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Duis vel orci erat. Aenean quis sem fringilla, scelerisque lectus et, vestibulum arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris faucibus vestibulum.&lt;/p&gt;</content>
+		<category term="Blog" />
+	</entry>
+	<entry>
+		<title>The role of parents in child’s growth</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/79-the-role-of-parents-in-child-s-growth"/>
+		<published>2016-12-28T15:00:39+00:00</published>
+		<updated>2016-12-28T15:00:39+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/79-the-role-of-parents-in-child-s-growth</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b12.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt nunc lorem, nec faucibus mi facilisis eget. Mauris laoreet, nisl id faucibus pellentesque, mi. 
+&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b12.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt nunc lorem, nec faucibus mi facilisis eget. Mauris laoreet, nisl id faucibus pellentesque, mi. 
+&lt;/p&gt;</content>
+		<category term="Blog" />
+	</entry>
+	<entry>
+		<title>What should parents teach childrens?</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/78-what-should-parents-teach-childrens"/>
+		<published>2016-12-28T14:59:24+00:00</published>
+		<updated>2016-12-28T14:59:24+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/78-what-should-parents-teach-childrens</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b13.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Great explorer of the truth, the master sed builder of human happiness. No one rejects, dislikes, rationally home and encounter occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b13.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Great explorer of the truth, the master sed builder of human happiness. No one rejects, dislikes, rationally home and encounter occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise.&lt;/p&gt;
+</content>
+		<category term="Blog" />
+	</entry>
+	<entry>
+		<title>Stylish and Unique Ways to Display Your Television</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/72-stylish-and-unique-ways-to-display-your-television"/>
+		<published>2015-02-02T20:29:50+00:00</published>
+		<updated>2015-02-02T20:29:50+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/72-stylish-and-unique-ways-to-display-your-television</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+</content>
+		<category term="Blog" />
+	</entry>
+	<entry>
+		<title>Pellentesque Habitant Morbi Tristique</title>
+		<link rel="alternate" type="text/html" href="https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/73-leberkas-tail-swine-pork"/>
+		<published>2015-02-02T20:29:50+00:00</published>
+		<updated>2015-02-02T20:29:50+00:00</updated>
+		<id>https://demo.warptheme.com/joomla/wt_berrykids/index.php/pages/news/73-leberkas-tail-swine-pork</id>
+		<author>
+			<name>Supper User</name>
+			<email>demo@warptheme.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b5.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://demo.warptheme.com/joomla/wt_berrykids/images/warptheme/blog/b5.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+</content>
+		<category term="Blog" />
+	</entry>
+</feed>
